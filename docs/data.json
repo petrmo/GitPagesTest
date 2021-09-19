@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "20437c9e-d618-4a76-a957-9ad3e9fe6824",
+    "Title": "Share a list or list item",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/46ea196c-78a1-4d3d-b672-a272cba06fb0?embed=true",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "5b16f46a-b2f7-4c47-b753-e1aeada713bd",
+    "Title": "Create a list in a Teams channel",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/7d2538c0-0177-4dcc-8e4c-44d218fc5a85?embed=true",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  }
+]
